@@ -1,4 +1,4 @@
-name: Cypress Docker Push
+name: Push the Docker image to AWS ECR Repo
 on: 
   push: 
     branches: [ "master" ]
